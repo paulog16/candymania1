@@ -1,0 +1,68 @@
+body{margin: 0px;
+    font-family: sans-serif;
+    background: #9FAFD4;
+}
+p b{color: purple;} /*MENDOZA*/
+h2:hover{color: red;
+;} 
+.instagram{color: purple;} /*instagram*/
+.instagram:hover{color: white;}
+
+h4:hover{color: #BD81D8;}
+h4{padding: 20px;} /*COPYRIGHT*/
+h2{margin: 30px;}
+.contenedor{width: 100%;
+font-weight: 800px;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+header{
+justify-content: space-between;
+background: #CAE8E7;
+display: flex;
+align-items: center;
+}
+a{text-decoration: none;
+color: black;}
+.nav-link{font-weight: 800;
+padding-right: 10px;
+margin:20px;
+display: inline-block;
+background-color:#CAE8E7;
+border-radius:5px;
+border:2px groove red;
+box-shadow:3px 2px 3px 2px ;}
+.nav-link:hover{color: white;}
+.logo{display: flex;}
+.tienda{margin: 10px;                 /*tienda*/
+background-color: #CAE8E7;
+display: inline-block;
+border-radius: 10px;
+padding: 10px;
+border:3px groove red;
+box-shadow: 5px 4px 5px 2px black;
+}
+
+
+.C{color: RED;}
+.A{color: #BD81D8;}
+.N{color: violet;}
+.D{color: GREEN;}
+.Y{color: orange;}
+.M{color: red;}
+.A2{color: green;}
+.N2{color: violet;}
+.I{color: #BD81D8;}
+.A3{color: orange;}
+.requisitos__input--uno{color: red;}
+.requisitos{margin: 10px;}
+p{margin: 10px;}
+
+.ejemplo{font-size: 40px;}
+
+.buscar{padding-left: 500px;
+margin-top: -48px;
+}
+
+    
+
+ .boton:hover{background: white;}  
+ 
